@@ -1,0 +1,3 @@
+design,b_mm,D_mm,d_mm,phi_main_mm,n_bars,phi_stirrup_mm,stirrup_spacing_mm,Ast_prov_mm2,actual_cost_INR,feasible,status,failure_reasons
+Exhaustive optimum,200.0,325.0,281.0,12.0,2,8.0,200.0,226.1946710584651,3969.127692591888,True,,
+ML-assisted optimum,200.0,325.0,281.0,12.0,2,8.0,200.0,226.1946710584651,3969.127692591888,True,,
