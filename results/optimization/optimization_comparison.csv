@@ -1,0 +1,4 @@
+top_k,selected_actual_cost_INR,actual_best_cost_INR,difference_INR,difference_percent,search_reduction_percent,actual_best_recovered,ml_rank_of_selected_design
+100,3969.127692591888,3969.127692591888,0.0,0.0,99.78508027251821,True,17
+500,3969.127692591888,3969.127692591888,0.0,0.0,98.92540136259107,True,17
+1000,3969.127692591888,3969.127692591888,0.0,0.0,97.85080272518213,True,17
