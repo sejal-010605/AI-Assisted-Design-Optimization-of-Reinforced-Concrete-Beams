@@ -1,7 +1,0 @@
-metric,value_INR
-Actual cheapest design cost,3969.127692591888
-ML predicted cost of actual cheapest design,1756.0286466238513
-ML-selected design actual cost,5410.879434932532
-ML-selected design predicted cost,1727.867578613258
-Absolute difference between actual and ML-selected cost,1441.751742340644
-Potential cost saving versus actual cheapest design,-1441.751742340644
