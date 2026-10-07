@@ -1,0 +1,63 @@
+{
+    "total_feasible_candidates": 46529,
+    "actual_best_cost_INR": 3969.127692591888,
+    "top_k_results": [
+        {
+            "top_k": 100,
+            "selected_actual_cost_INR": 3969.127692591888,
+            "actual_best_cost_INR": 3969.127692591888,
+            "difference_INR": 0.0,
+            "difference_percent": 0.0,
+            "search_reduction_percent": 99.78508027251821,
+            "actual_best_recovered": true,
+            "ml_rank_of_selected_design": 17
+        },
+        {
+            "top_k": 500,
+            "selected_actual_cost_INR": 3969.127692591888,
+            "actual_best_cost_INR": 3969.127692591888,
+            "difference_INR": 0.0,
+            "difference_percent": 0.0,
+            "search_reduction_percent": 98.92540136259107,
+            "actual_best_recovered": true,
+            "ml_rank_of_selected_design": 17
+        },
+        {
+            "top_k": 1000,
+            "selected_actual_cost_INR": 3969.127692591888,
+            "actual_best_cost_INR": 3969.127692591888,
+            "difference_INR": 0.0,
+            "difference_percent": 0.0,
+            "search_reduction_percent": 97.85080272518213,
+            "actual_best_recovered": true,
+            "ml_rank_of_selected_design": 17
+        }
+    ],
+    "method": "ML-assisted candidate screening followed by exact actual-cost selection",
+    "model_file": "C:\\Users\\sejal\\OneDrive\\Desktop\\vscode\\RCC-Beam-ML-Optimization\\processed\\ml_modeling_outputs\\final_ml_model.joblib",
+    "candidate_file": "C:\\Users\\sejal\\OneDrive\\Desktop\\vscode\\RCC-Beam-ML-Optimization\\processed\\feasible_candidates.csv",
+    "model_features": [
+        "ADL_kNm",
+        "LL_kNm",
+        "span_cc_mm",
+        "b_mm",
+        "D_final_mm",
+        "d_final_mm",
+        "fck_MPa",
+        "fy_MPa",
+        "phi_main_mm",
+        "phi_stirrup_mm",
+        "cover_mm",
+        "Ast_prov_mm2",
+        "n_bars",
+        "bar_spacing_mm",
+        "pt_prov_percent",
+        "leff_mm"
+    ],
+    "top_k_values": [
+        100,
+        500,
+        1000
+    ],
+    "random_state": 42
+}
