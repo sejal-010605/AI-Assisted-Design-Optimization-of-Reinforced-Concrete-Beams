@@ -1,0 +1,11 @@
+{
+    "best_model": "CatBoost",
+    "validation_mae_INR": 29.779190448177474,
+    "test_mae_INR": 25.185145072434636,
+    "test_rmse_INR": 48.948133432073654,
+    "test_r2": 0.9999661726420876,
+    "test_mape_percent": 0.391724030018957,
+    "final_training_rows": 638027,
+    "final_training_time_seconds": 148.5211009979248,
+    "test_prediction_time_seconds": 0.07023262977600098
+}
